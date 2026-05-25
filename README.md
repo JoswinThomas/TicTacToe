@@ -2,7 +2,7 @@
 
 A lightweight, interactive, object-oriented Tic-Tac-Toe game playable directly in your terminal, built using Python.
 
-## 🚀 Features
+## Features
 * **Interactive Gameplay**: Play as either **X** or **O**.
 * **Dynamic Turn Ordering**: 
   * Choosing **X** lets you go first.
@@ -12,7 +12,7 @@ A lightweight, interactive, object-oriented Tic-Tac-Toe game playable directly i
 
 ---
 
-## 🎮 How It Looks
+##  How It Looks
 When you launch the game, the empty grid positions are mapped out by numbers `0-8`:
 
 ```text
